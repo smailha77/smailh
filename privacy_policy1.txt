@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Privacy Policy - Text Repeater App</title>
+<style>
+  body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background: #f9f9f9; color: #333; }
+  h1, h2 { color: #2c3e50; }
+  section { margin-bottom: 40px; }
+</style>
+</head>
+<body>
+
+<section>
+  <h1>Privacy Policy – Text Repeater App</h1>
+  <p><strong>Effective Date:</strong> May 16, 2025</p>
+  <p>We respect your privacy and are committed to protecting your personal data when you use the <strong>Text Repeater</strong> app. Please read this policy to understand how we handle your data.</p>
+
+  <h2>1. Data We Collect:</h2>
+  <ul>
+    <li>The <strong>Text Repeater</strong> app does not collect any personal information from users, nor does it store any data entered into the app.</li>
+    <li>We do not collect user names, email addresses, or any personally identifiable information.</li>
+    <li>We do not collect location data or any device information.</li>
+  </ul>
+
+  <h2>2. Permissions:</h2>
+  <p>The app requests Internet access permission only to improve user experience, such as checking for updates or loading future content, but <strong>no personal data is sent or received</strong>.</p>
+
+  <h2>3. Advertisements:</h2>
+  <p>This app <strong>does not contain any advertisements</strong>.</p>
+
+  <h2>4. Security:</h2>
+  <p>Since the app does not store user data, there is no personal information that can be leaked or lost.</p>
+
+  <h2>5. Updates to Privacy Policy:</h2>
+  <p>We may update this privacy policy from time to time. Users will be notified of any significant changes through app updates or via Google Play.</p>
+
+  <h2>6. Contact Us:</h2>
+  <p>If you have any questions regarding this policy, please contact us at:<br />
+  <a href="mailto:smail.app.dev@gmail.com">smail.app.dev@gmail.com</a></p>
+</section>
+
+</body>
+</html>
